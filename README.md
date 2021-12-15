@@ -7,7 +7,9 @@
 <img src="Images/ML2.jfif" align="right" width="200px"/>
 <br clear="center"/>
 
-<img src="Images/monte-carlo.png" align="right" width="450px"/>
+#
+
+<img src="Images/monte-carlo.png" align="center" width="350px"/>
 
 #
 
