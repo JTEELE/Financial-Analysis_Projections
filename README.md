@@ -6,12 +6,11 @@
 #
 
 <img src="Images/ML2.jfif" align="right" width="180px"/>
-<br clear="center"/>
-
-
 
 <img src="Images/monte-carlo.png" align="center" width="350px"/>
 
+
+#
 
 >### Overview: 
 >> This script will *Build* two financial analysis tools and *Project* future returns based a user's cryptocurrency holdings.
