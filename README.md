@@ -30,9 +30,5 @@
 
 
 ## Resources:
-1. Northwestern NPS:
-https://sps.northwestern.edu/
-
-2. Monte Carlo (Medium):
+1. Monte Carlo description (Medium):
 https://towardsdatascience.com/managing-project-uncertainty-using-monte-carlo-simulation-68bb720bb9be
-
